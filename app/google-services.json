@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "333156314371",
+    "firebase_url": "https://videorecordingapp-886fc.firebaseio.com",
+    "project_id": "videorecordingapp-886fc",
+    "storage_bucket": "videorecordingapp-886fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333156314371:android:ee3fa3e3d10d8c62c04d36",
+        "android_client_info": {
+          "package_name": "com.saitejajanjirala.videorecording"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333156314371-91m3uhmjk6e4pco039t95n1m7irqbbpm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.saitejajanjirala.videorecording",
+            "certificate_hash": "d1a34a25fe4021dcf3c2bf524717ec974f420594"
+          }
+        },
+        {
+          "client_id": "333156314371-it4hoq6l1pk6khshhb1aer0vus3jf1fv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK25fPSayM8p8g-pPElqxEvmf_48rkk98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333156314371-it4hoq6l1pk6khshhb1aer0vus3jf1fv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
